@@ -1,0 +1,10 @@
+marks={
+    "harry":10,
+    "manish":20,
+    "rohan":23,
+    "mark":[10,20,30]
+}
+print(marks.items())
+print(marks["harry"])
+marks.update({"harry":99,"renu":100})
+print(marks.items())

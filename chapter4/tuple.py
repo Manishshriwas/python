@@ -1,0 +1,5 @@
+a=(1,2,3,3,5)
+print(type(a))
+b=(1,"manish",2.0)
+print(len(a))
+print(b)

@@ -1,0 +1,13 @@
+frnd=["manish",1,2.0,False,"shriwas"]
+print(frnd[3])
+frnd[0]="Manish"
+print(frnd)
+frnd.append("Hello")
+l1=[3,2,1,5,3]
+l1.sort()
+l1.reverse()
+l1.insert(3,9)
+l1.remove(9)
+print(l1.pop(3))
+print(l1)
+print(frnd)
